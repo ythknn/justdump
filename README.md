@@ -6,4 +6,4 @@ Website for **JustDump**, an iPhone app that turns what you say into Apple Remin
 - Privacy policy: https://ythknn.github.io/justdump/privacy/
 - Support: https://ythknn.github.io/justdump/support/
 
-Questions or bugs? [Open an issue](https://github.com/ythknn/justdump/issues).
+Questions or bugs? Email [tarik@vo1d.studio](mailto:tarik@vo1d.studio) or [open an issue](https://github.com/ythknn/justdump/issues).
